@@ -1,5 +1,5 @@
 # python-gui-pomodoro
-A pomodoro timer to improve productivity, with alarm and 4 periods of 25 minustes.
+A pomodoro timer to improve productivity, with alarm and 4 periods of 25 minutes.
 
 Below are some snaps:
 
